@@ -1,0 +1,44 @@
+/**
+* Main CSS stylesheet for Yoohoo Testimonials 
+**/
+
+    .yoohoo-testimonials-wrapper{
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding: 2% 0 2% 0;
+    }
+
+    .yoohoo-testimonials-profile{
+        padding: 2% 0 2% 0;
+        display: block;
+    }
+
+    .yoohoo-testimonials-content{
+        padding: 2% 0 2% 0;
+        display: block;
+    }
+
+    .yoohoo-testimonials-profile img{
+        border-radius: 100%;
+    }
+
+    ul.yoohoo-pagination{text-align: center;}
+
+    .yoohoo-pagination a{
+        color: black;
+        padding: 8px 16px;
+    }
+
+    .yoohoo-pagination li{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display:inline;
+    }
+
+    .yoohoo-testimonials-author{font-weight: bold;}
+    .yoohoo-testimonials-description{font-style: italic;}
+
+
+
